@@ -14,5 +14,3 @@ To provide actionable insights, we developed interactive reports and dashboards 
 ![Screenshot 2025-03-16 130236](https://github.com/user-attachments/assets/8a99452d-b6fb-4f00-8115-8be9b7af1f20)
 ![Screenshot 2025-03-16 130221](https://github.com/user-attachments/assets/e40e32ba-5a11-4be1-8491-c706765b1fbb)
 
-
-## STAGE 2
