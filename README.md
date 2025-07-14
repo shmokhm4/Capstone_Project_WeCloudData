@@ -44,3 +44,9 @@ In Stage 2, we transitioned from a local setup to a cloud-native data environmen
   - Built dashboards using Power BI and Excel for ad-hoc and real-time reporting.  
   - Delivered a CEO-focused report on attendance trends, filtered by month and level.
 
+## Dashboards & Data Quality Dashboards
+
+![Dashboard](https://raw.githubusercontent.com/shmokhm4/Capstone_Project_WeCloudData/main/images/Dashboard.png)  
+![Users Table](https://raw.githubusercontent.com/shmokhm4/Capstone_Project_WeCloudData/main/images/UsersTable.png)  
+![Attendance Table](https://raw.githubusercontent.com/shmokhm4/Capstone_Project_WeCloudData/main/images/AttendanceTable.png)  
+![Courses Table](https://raw.githubusercontent.com/shmokhm4/Capstone_Project_WeCloudData/main/images/CoCoursesTable.png)
